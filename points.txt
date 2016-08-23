@@ -1,0 +1,589 @@
+20110114_2103701_NUH.txt::2::0::0::da to::vacnomycin
+20110114_2103701_NUH.txt::9::1::30::rash::vancomycin
+20110114_2103701_NUH.txt::2::0::2::rash::vanco
+20110114_2103701_NUH.txt::6::0::2::rash::teicoplanin
+20110125_2005636_NUH.txt::3::0::1::hypoglycemia::glimepiride
+20110125_2005636_NUH.txt::3::0::12::renal failure::ohga
+20110125_2005636_NUH.txt::3::2::44::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::0::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::1::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::4::0::10::chronic renal failure::ohga
+20110210_3287411_NUH.txt::12::1::32::transaminitis::rhez
+20110210_3287411_NUH.txt::6::2::44::pneumonia::meropenem
+20110210_3287411_NUH.txt::6::0::16::pneumonia::meropenem
+20110216_22811_NUH.txt::7::0::8::hypoglycemia::ohgas
+20110217_3558303_NUH.txt::5::1::3::asthma::inhalers
+20110218_2239268_NUH.txt::2::0::0::allergy::paracetamol
+20110221_2391055_NUH.txt::2::0::0::allergic::sulphur drugs
+20110221_2391055_NUH.txt::3::0::5::pruritic::sulphur drugs
+20110221_2391055_NUH.txt::9::0::10::dyspepsia::prednisolone
+20110221_2391055_NUH.txt::9::1::12::fluid retention::steroids
+20110221_2391055_NUH.txt::3::1::9::ulcers::mtx
+20110221_2391055_NUH.txt::8::0::9::esophagitis::mtx
+20110221_2391055_NUH.txt::10::0::11::renal impairment::mtx
+20110304_23670_NUH.txt::2::0::0::allergic::nsaids
+20110305_5647428_NUH.txt::5::1::27::rashes::vaccination
+20110305_5647428_NUH.txt::5::0::14::rashes::vaccination
+20110305_5647428_NUH.txt::7::0::1::vasculitic rash::prevenar
+20110328_2025440_NUH.txt::13::1::4::cellulitis::abx
+20110329_4426078_NUH.txt::2::2::27::fever::antibiotics
+20110329_4426078_NUH.txt::2::0::5::fever::antibiotics
+20110329_4426078_NUH.txt::2::2::5::fever::antibiotics
+20110329_4426078_NUH.txt::6::0::5::fever::meropenem
+20110329_4426078_NUH.txt::6::2::5::fever::meropenem
+20110330_2253453_NUH.txt::9::1::14::nodules::carbo
+20110330_2440054_NUH.txt::3::0::0::drug allergy::co-trimoxazole
+20110330_2440054_NUH.txt::5::0::0::drug allergy::ibuprofen
+20110330_2440054_NUH.txt::3::0::4::delirium::lithium
+20110330_2440054_NUH.txt::3::2::4::delirium::lithium
+20110330_2440054_NUH.txt::3::0::11::delirium::lithium
+20110330_2440054_NUH.txt::6::0::11::dehydration::lithium
+20110330_2440054_NUH.txt::3::0::14::aki::lithium
+20110330_2440054_NUH.txt::2::0::15::diuresis::lithium
+20110330_2440054_NUH.txt::3::0::8::infection::lithium
+20110330_2758425_NUH.txt::5::1::5::cough::enalapril
+20110330_2758425_NUH.txt::5::1::8::cough::enalapril
+20110330_3816106_NUH.txt::3::0::0::drug allergy::ketotop
+20110330_4079245_NUH.txt::8::1::1::pancreatitis::creon
+20110330_4963014_NUH.txt::7::1::1::allergic::nasonex
+20110330_4963014_NUH.txt::9::1::1::allergic::zyrtec
+20110917_2022324_NUH.txt::6::1::12::suprapubic pain::antibiotics
+20110917_2022324_NUH.txt::3::1::15::palpation::antibiotics
+20110917_4562480_NUH.txt::10::1::14::corneal ulcer::genta
+20110917_4562480_NUH.txt::5::1::14::corneal ulcer::homatropine
+20110917_4842226_NUH.txt::8::0::4::temporal headache::paracetamol
+20110917_4842226_NUH.txt::5::0::8::intermittent fever::antibiotics
+20110114_2103701_NUH.txt::2::0::0::da to::vacnomycin
+20110114_2103701_NUH.txt::9::1::30::rash::vancomycin
+20110114_2103701_NUH.txt::2::0::2::rash::vanco
+20110114_2103701_NUH.txt::6::0::2::rash::teicoplanin
+20110125_2005636_NUH.txt::3::0::1::hypoglycemia::glimepiride
+20110125_2005636_NUH.txt::3::0::12::renal failure::ohga
+20110125_2005636_NUH.txt::3::2::44::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::0::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::1::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::4::0::10::chronic renal failure::ohga
+20110210_3287411_NUH.txt::12::1::32::transaminitis::rhez
+20110210_3287411_NUH.txt::6::2::44::pneumonia::meropenem
+20110210_3287411_NUH.txt::6::0::16::pneumonia::meropenem
+20110216_22811_NUH.txt::7::0::8::hypoglycemia::ohgas
+20110217_3558303_NUH.txt::5::1::3::asthma::inhalers
+20110218_2239268_NUH.txt::2::0::0::allergy::paracetamol
+20110221_2391055_NUH.txt::2::0::0::allergic::sulphur drugs
+20110221_2391055_NUH.txt::3::0::5::pruritic::sulphur drugs
+20110221_2391055_NUH.txt::9::0::10::dyspepsia::prednisolone
+20110221_2391055_NUH.txt::9::1::12::fluid retention::steroids
+20110221_2391055_NUH.txt::3::1::9::ulcers::mtx
+20110221_2391055_NUH.txt::8::0::9::esophagitis::mtx
+20110221_2391055_NUH.txt::10::0::11::renal impairment::mtx
+20110304_23670_NUH.txt::2::0::0::allergic::nsaids
+20110305_5647428_NUH.txt::6::1::27::rashes::rotavirus
+20110305_5647428_NUH.txt::6::0::14::rashes::rotavirus
+20110305_5647428_NUH.txt::5::1::27::rashes::vaccination
+20110305_5647428_NUH.txt::5::0::14::rashes::vaccination
+20110305_5647428_NUH.txt::7::0::1::vasculitic rash::prevenar
+20110308_3992481_NUH.txt::4::0::12::hsv::acyclovir
+20110308_3992481_NUH.txt::6::0::11::drowsiness::cyclophosphamide
+20110314_2820867_NUH.txt::10::0::23::aki::spironolactone
+20110314_2820867_NUH.txt::4::0::24::transaminitis::cefazolin
+20110314_2820867_NUH.txt::4::1::24::transaminitis::cefazolin
+20110317_2108269_NUH.txt::10::1::14::lvh::acei
+20110317_2186391_NUH.txt::6::0::8::urticarial::aspirin
+20110317_2186391_NUH.txt::4::0::8::urticarial::omeprazole
+20110317_2186391_NUH.txt::6::0::8::urticarial::aspirin
+20110317_2186391_NUH.txt::6::0::8::urticarial::antihist
+20110317_2186391_NUH.txt::8::0::8::urticarial::hydrocortisone
+20110317_2789944_NUH.txt::7::2::8::sinus bradycardia::b-blockers
+20110317_4093122_NUH.txt::11::0::14::thrombus::warfarin
+20110317_4093122_NUH.txt::5::0::14::thrombus::heparin
+20110317_4093122_NUH.txt::7::1::15::thrombus::heparin
+20110324_2348132_NUH.txt::2::0::0::allergy::septrim
+20110324_2348132_NUH.txt::4::0::0::allergy::cotrimoxazole
+20110324_2348132_NUH.txt::6::0::0::allergy::trimethoprim
+20110324_2348132_NUH.txt::8::0::0::allergy::tetracycline
+20110324_4929667_NUH.txt::6::0::7::anaemia::anti-platelets
+20110324_4929667_NUH.txt::3::0::8::anaemia::anticoagulation
+20110324_4929667_NUH.txt::3::0::1::fever::antibiotics
+20110325_3583135_NUH.txt::3::0::0::drug allergy::penicillins
+20110325_3583135_NUH.txt::5::0::0::drug allergy::benzylpenicillin
+20110325_3583135_NUH.txt::7::0::0::drug allergy::lisinopril
+20110325_3583135_NUH.txt::9::0::0::drug allergy::omeprazole
+20110325_3583135_NUH.txt::6::0::7::thrombocytopenia::antiplatelets
+20110325_3583135_NUH.txt::4::0::6::transaminitis::methotrexate
+20110325_3583135_NUH.txt::6::0::8::thrombocytopenia::antiplatelet
+20110325_3583135_NUH.txt::13::1::11::fungal infection::anidulafungin
+20110325_3583135_NUH.txt::8::1::16::cva::anidulafungin
+20110325_3583135_NUH.txt::4::1::20::lymphoma::anidulafungin
+20110114_2103701_NUH.txt::2::0::0::da to::vacnomycin
+20110114_2103701_NUH.txt::9::1::30::rash::vancomycin
+20110114_2103701_NUH.txt::2::0::2::rash::vanco
+20110114_2103701_NUH.txt::6::0::2::rash::teicoplanin
+20110125_2005636_NUH.txt::3::0::1::hypoglycemia::glimepiride
+20110125_2005636_NUH.txt::3::0::12::renal failure::ohga
+20110125_2005636_NUH.txt::3::2::44::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::0::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::1::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::4::0::10::chronic renal failure::ohga
+20110210_3287411_NUH.txt::12::1::32::transaminitis::rhez
+20110210_3287411_NUH.txt::6::2::44::pneumonia::meropenem
+20110210_3287411_NUH.txt::6::0::16::pneumonia::meropenem
+20110216_22811_NUH.txt::7::0::8::hypoglycemia::ohgas
+20110217_3558303_NUH.txt::5::1::3::asthma::inhalers
+20110218_2239268_NUH.txt::2::0::0::allergy::paracetamol
+20110221_2391055_NUH.txt::2::0::0::allergic::sulphur drugs
+20110221_2391055_NUH.txt::3::0::5::pruritic::sulphur drugs
+20110221_2391055_NUH.txt::9::0::10::dyspepsia::prednisolone
+20110221_2391055_NUH.txt::9::1::12::fluid retention::steroids
+20110221_2391055_NUH.txt::3::1::9::ulcers::mtx
+20110221_2391055_NUH.txt::8::0::9::esophagitis::mtx
+20110221_2391055_NUH.txt::10::0::11::renal impairment::mtx
+20110304_23670_NUH.txt::2::0::0::allergic::nsaids
+20110305_5647428_NUH.txt::6::1::27::rashes::rotavirus
+20110305_5647428_NUH.txt::6::0::14::rashes::rotavirus
+20110305_5647428_NUH.txt::5::1::27::rashes::vaccination
+20110305_5647428_NUH.txt::5::0::14::rashes::vaccination
+20110305_5647428_NUH.txt::7::0::1::vasculitic rash::prevenar
+20110920_3668839_NUH.txt::3::0::0::drug allergy::benzylpenicillin
+20110920_3948983_NUH.txt::2::0::0::allergic::mefenamic acid
+20110920_3948983_NUH.txt::3::0::5::periorbital oedema::mefenamic acid
+20110921_2022254_NUH.txt::3::0::0::drug allergy::augmentin
+20110921_2022254_NUH.txt::5::0::0::drug allergy::nifedipine
+20110921_2022254_NUH.txt::6::2::19::diuresis::diuretic
+20110921_2124662_NUH.txt::2::0::0::allergic::penicillin
+20110921_2124662_NUH.txt::4::0::0::allergic::cephalosporin
+20110921_2124662_NUH.txt::6::1::18::thrombosis::levofloxacin
+20110921_2124662_NUH.txt::8::0::4::torsades de pointes::sotalol
+20110921_2124662_NUH.txt::4::0::7::prolong qtc::maxolon
+20110921_2307472_NUH.txt::3::0::0::drug allergy::naproxen
+20110921_2307472_NUH.txt::4::1::3::metastases::chemotherapy
+20110921_4634547_NUH.txt::2::0::0::allergy::atorvastatin
+20110922_21267_NUH.txt::4::1::17::weals::ivig
+20110922_21267_NUH.txt::4::0::9::weals::ivig
+20110922_21267_NUH.txt::4::0::9::weals::ivig
+20110922_21267_NUH.txt::6::1::25::allergy::intragam
+20110922_21267_NUH.txt::4::1::9::weals::ivig
+20110922_3482204_NUH.txt::9::1::20::sob::analgesia
+20110922_3482204_NUH.txt::9::1::13::resting tremor::lexapro
+20110922_4031992_NUH.txt::2::0::0::allergy::tetanus
+20110107_2702966_NUH.txt::1::0::0::DA::asp
+20110207_30101_NUH.txt::2::0::0::allergy::paracetemol
+20110207_30101_NUH.txt::2::0::4::rashes::paracetemol
+20110216_2398439_NUH.txt::3::0::0::drug allergy::serratiopeptidase
+20110216_2398439_NUH.txt::5::0::0::drug allergy::danzen
+20110217_3171149_NUH.txt::3::0::0::drug allergy::amoxicillin
+20110305_5686287_NUH.txt::6::0::25::thrombus::plavix
+20110306_2005827_NUH.txt::8::2::66::hypotension::avodart
+20110306_2005827_NUH.txt::8::0::9::hypotension::avodart
+20110306_2005827_NUH.txt::6::2::66::hypotension::propranolol
+20110306_2005827_NUH.txt::6::0::9::hypotension::propranolol
+20110919_3799677_NUH.txt::7::1::20::GE::topiramate
+20110919_3799677_NUH.txt::5::1::22::dehydration::topiramate
+20110919_3799677_NUH.txt::7::0::4::headache::analgesia
+20110919_3799677_NUH.txt::7::0::7::GE::topiramate
+20110919_3799677_NUH.txt::5::0::9::dehydration::topiramate
+20110919_4089975_NUH.txt::2::0::0::allergy::penicillin
+20110919_4089975_NUH.txt::4::0::0::allergy::metronidazole
+20110919_4089975_NUH.txt::3::1::7::metastatic::metronidazole
+20110919_4089975_NUH.txt::1::0::3::allergy::vancomycin
+20110919_4089975_NUH.txt::1::1::3::allergy::vancomycin
+20110919_4089975_NUH.txt::1::0::4::allergy::vancomycin
+20110919_4089975_NUH.txt::7::1::4::allergy::hydrocortisone
+20110920_5625995_NUH.txt::5::0::21::constipation::fleet enema
+20110921_5818337_NUH.txt::7::0::12::headaches::nimodipine
+20110921_5818337_NUH.txt::7::0::12::headaches::nimodipine
+20110922_2250597_NUH.txt::2::0::0::allergic::hydrochlorothiazide
+20110922_2250597_NUH.txt::3::1::11::vertigo::diphenhydramine
+20110922_2359622_NUH.txt::2::0::0::allergic::septrin
+20110922_2359622_NUH.txt::2::0::4::rashes::septrin
+20110922_2414330_NUH.txt::2::0::0::allergic::indomethacin
+20110922_2693517_NUH.txt::11::0::1::bp noted to be lowish::enalapril
+20110922_32860_NUH.txt::2::0::0::allergic::penicillin
+20110922_32860_NUH.txt::8::0::12::stroke::aspirin
+20110922_32860_NUH.txt::6::0::12::stroke::anti-hypertensives
+20110114_2103701_NUH.txt::2::0::0::da to::vacnomycin
+20110114_2103701_NUH.txt::9::1::30::rash::vancomycin
+20110114_2103701_NUH.txt::2::0::2::rash::vanco
+20110114_2103701_NUH.txt::6::0::2::rash::teicoplanin
+20110125_2005636_NUH.txt::3::0::1::hypoglycemia::glimepiride
+20110125_2005636_NUH.txt::3::0::12::renal failure::ohga
+20110125_2005636_NUH.txt::3::2::44::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::0::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::1::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::4::0::10::chronic renal failure::ohga
+20110210_3287411_NUH.txt::12::1::32::transaminitis::rhez
+20110210_3287411_NUH.txt::6::2::44::pneumonia::meropenem
+20110210_3287411_NUH.txt::6::0::16::pneumonia::meropenem
+20110216_22811_NUH.txt::7::0::8::hypoglycemia::ohgas
+20110217_3558303_NUH.txt::5::1::3::asthma::inhalers
+20110218_2239268_NUH.txt::2::0::0::allergy::paracetamol
+20110221_2391055_NUH.txt::2::0::0::allergic::sulphur drugs
+20110221_2391055_NUH.txt::3::0::5::pruritic::sulphur drugs
+20110221_2391055_NUH.txt::9::0::10::dyspepsia::prednisolone
+20110221_2391055_NUH.txt::9::1::12::fluid retention::steroids
+20110221_2391055_NUH.txt::3::1::9::ulcers::mtx
+20110221_2391055_NUH.txt::8::0::9::esophagitis::mtx
+20110221_2391055_NUH.txt::10::0::11::renal impairment::mtx
+20110304_23670_NUH.txt::2::0::0::allergic::nsaids
+20110305_5647428_NUH.txt::6::1::27::rashes::rotavirus
+20110305_5647428_NUH.txt::6::0::14::rashes::rotavirus
+20110305_5647428_NUH.txt::5::1::27::rashes::vaccination
+20110305_5647428_NUH.txt::5::0::14::rashes::vaccination
+20110305_5647428_NUH.txt::7::0::1::vasculitic rash::prevenar
+20110328_2025440_NUH.txt::13::1::4::cellulitis::abx
+20110329_4426078_NUH.txt::2::2::27::fever::antibiotics
+20110329_4426078_NUH.txt::2::0::5::fever::antibiotics
+20110329_4426078_NUH.txt::2::2::5::fever::antibiotics
+20110329_4426078_NUH.txt::6::0::5::fever::meropenem
+20110329_4426078_NUH.txt::6::2::5::fever::meropenem
+20110330_2253453_NUH.txt::9::1::14::nodules::carbo
+20110330_2440054_NUH.txt::3::0::0::drug allergy::co-trimoxazole
+20110330_2440054_NUH.txt::5::0::0::drug allergy::ibuprofen
+20110330_2440054_NUH.txt::3::0::4::delirium::lithium
+20110330_2440054_NUH.txt::3::2::4::delirium::lithium
+20110330_2440054_NUH.txt::3::0::11::delirium::lithium
+20110330_2440054_NUH.txt::6::0::11::dehydration::lithium
+20110330_2440054_NUH.txt::3::0::14::aki::lithium
+20110330_2440054_NUH.txt::2::0::15::diuresis::lithium
+20110330_2440054_NUH.txt::3::0::8::infection::lithium
+20110330_2758425_NUH.txt::5::1::5::cough::enalapril
+20110330_2758425_NUH.txt::5::1::8::cough::enalapril
+20110330_3816106_NUH.txt::3::0::0::drug allergy::ketotop
+20110330_4079245_NUH.txt::8::1::1::pancreatitis::creon
+20110330_4963014_NUH.txt::7::1::1::allergic::nasonex
+20110330_4963014_NUH.txt::9::1::1::allergic::zyrtec
+20110917_2022324_NUH.txt::6::1::12::suprapubic pain::antibiotics
+20110917_2022324_NUH.txt::3::1::15::palpation::antibiotics
+20110917_4562480_NUH.txt::10::1::14::corneal ulcer::genta
+20110917_4562480_NUH.txt::5::1::14::corneal ulcer::homatropine
+20110917_4842226_NUH.txt::8::0::4::temporal headache::paracetamol
+20110917_4842226_NUH.txt::5::0::8::intermittent fever::antibiotics
+20110114_2103701_NUH.txt::2::0::0::da to::vacnomycin
+20110114_2103701_NUH.txt::9::1::30::rash::vancomycin
+20110114_2103701_NUH.txt::2::0::2::rash::vanco
+20110114_2103701_NUH.txt::6::0::2::rash::teicoplanin
+20110125_2005636_NUH.txt::3::0::1::hypoglycemia::glimepiride
+20110125_2005636_NUH.txt::3::0::12::renal failure::ohga
+20110125_2005636_NUH.txt::3::2::44::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::0::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::1::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::4::0::10::chronic renal failure::ohga
+20110210_3287411_NUH.txt::12::1::32::transaminitis::rhez
+20110210_3287411_NUH.txt::6::2::44::pneumonia::meropenem
+20110210_3287411_NUH.txt::6::0::16::pneumonia::meropenem
+20110216_22811_NUH.txt::7::0::8::hypoglycemia::ohgas
+20110217_3558303_NUH.txt::5::1::3::asthma::inhalers
+20110218_2239268_NUH.txt::2::0::0::allergy::paracetamol
+20110221_2391055_NUH.txt::2::0::0::allergic::sulphur drugs
+20110221_2391055_NUH.txt::3::0::5::pruritic::sulphur drugs
+20110221_2391055_NUH.txt::9::0::10::dyspepsia::prednisolone
+20110221_2391055_NUH.txt::9::1::12::fluid retention::steroids
+20110221_2391055_NUH.txt::3::1::9::ulcers::mtx
+20110221_2391055_NUH.txt::8::0::9::esophagitis::mtx
+20110221_2391055_NUH.txt::10::0::11::renal impairment::mtx
+20110304_23670_NUH.txt::2::0::0::allergic::nsaids
+20110305_5647428_NUH.txt::6::1::27::rashes::rotavirus
+20110305_5647428_NUH.txt::6::0::14::rashes::rotavirus
+20110305_5647428_NUH.txt::5::1::27::rashes::vaccination
+20110305_5647428_NUH.txt::5::0::14::rashes::vaccination
+20110305_5647428_NUH.txt::7::0::1::vasculitic rash::prevenar
+20110308_3992481_NUH.txt::4::0::12::hsv::acyclovir
+20110308_3992481_NUH.txt::6::0::11::drowsiness::cyclophosphamide
+20110314_2820867_NUH.txt::10::0::23::aki::spironolactone
+20110314_2820867_NUH.txt::4::0::24::transaminitis::cefazolin
+20110314_2820867_NUH.txt::4::1::24::transaminitis::cefazolin
+20110317_2108269_NUH.txt::10::1::14::lvh::acei
+20110317_2186391_NUH.txt::6::0::8::urticarial::aspirin
+20110317_2186391_NUH.txt::4::0::8::urticarial::omeprazole
+20110317_2186391_NUH.txt::6::0::8::urticarial::aspirin
+20110317_2186391_NUH.txt::6::0::8::urticarial::antihist
+20110317_2186391_NUH.txt::8::0::8::urticarial::hydrocortisone
+20110317_2789944_NUH.txt::7::2::8::sinus bradycardia::b-blockers
+20110317_4093122_NUH.txt::11::0::14::thrombus::warfarin
+20110317_4093122_NUH.txt::5::0::14::thrombus::heparin
+20110317_4093122_NUH.txt::7::1::15::thrombus::heparin
+20110324_2348132_NUH.txt::2::0::0::allergy::septrim
+20110324_2348132_NUH.txt::4::0::0::allergy::cotrimoxazole
+20110324_2348132_NUH.txt::6::0::0::allergy::trimethoprim
+20110324_2348132_NUH.txt::8::0::0::allergy::tetracycline
+20110324_4929667_NUH.txt::6::0::7::anaemia::anti-platelets
+20110324_4929667_NUH.txt::3::0::8::anaemia::anticoagulation
+20110324_4929667_NUH.txt::3::0::1::fever::antibiotics
+20110325_3583135_NUH.txt::3::0::0::drug allergy::penicillins
+20110325_3583135_NUH.txt::5::0::0::drug allergy::benzylpenicillin
+20110325_3583135_NUH.txt::7::0::0::drug allergy::lisinopril
+20110325_3583135_NUH.txt::9::0::0::drug allergy::omeprazole
+20110325_3583135_NUH.txt::6::0::7::thrombocytopenia::antiplatelets
+20110325_3583135_NUH.txt::4::0::6::transaminitis::methotrexate
+20110325_3583135_NUH.txt::6::0::8::thrombocytopenia::antiplatelet
+20110325_3583135_NUH.txt::13::1::11::fungal infection::anidulafungin
+20110325_3583135_NUH.txt::8::1::16::cva::anidulafungin
+20110325_3583135_NUH.txt::4::1::20::lymphoma::anidulafungin
+20110114_2103701_NUH.txt::2::0::0::da to::vacnomycin
+20110114_2103701_NUH.txt::9::1::30::rash::vancomycin
+20110114_2103701_NUH.txt::2::0::2::rash::vanco
+20110114_2103701_NUH.txt::6::0::2::rash::teicoplanin
+20110125_2005636_NUH.txt::3::0::1::hypoglycemia::glimepiride
+20110125_2005636_NUH.txt::3::0::12::renal failure::ohga
+20110125_2005636_NUH.txt::3::2::44::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::0::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::3::1::10::hypoglycemic::glimepiride
+20110125_2005636_NUH.txt::4::0::10::chronic renal failure::ohga
+20110210_3287411_NUH.txt::12::1::32::transaminitis::rhez
+20110210_3287411_NUH.txt::6::2::44::pneumonia::meropenem
+20110210_3287411_NUH.txt::6::0::16::pneumonia::meropenem
+20110216_22811_NUH.txt::7::0::8::hypoglycemia::ohgas
+20110217_3558303_NUH.txt::5::1::3::asthma::inhalers
+20110218_2239268_NUH.txt::2::0::0::allergy::paracetamol
+20110221_2391055_NUH.txt::2::0::0::allergic::sulphur drugs
+20110221_2391055_NUH.txt::3::0::5::pruritic::sulphur drugs
+20110221_2391055_NUH.txt::9::0::10::dyspepsia::prednisolone
+20110221_2391055_NUH.txt::9::1::12::fluid retention::steroids
+20110221_2391055_NUH.txt::3::1::9::ulcers::mtx
+20110221_2391055_NUH.txt::8::0::9::esophagitis::mtx
+20110221_2391055_NUH.txt::10::0::11::renal impairment::mtx
+20110304_23670_NUH.txt::2::0::0::allergic::nsaids
+20110305_5647428_NUH.txt::6::1::27::rashes::rotavirus
+20110305_5647428_NUH.txt::6::0::14::rashes::rotavirus
+20110305_5647428_NUH.txt::5::1::27::rashes::vaccination
+20110305_5647428_NUH.txt::5::0::14::rashes::vaccination
+20110305_5647428_NUH.txt::7::0::1::vasculitic rash::prevenar
+20110920_3668839_NUH.txt::3::0::0::drug allergy::benzylpenicillin
+20110920_3948983_NUH.txt::2::0::0::allergic::mefenamic acid
+20110920_3948983_NUH.txt::3::0::5::periorbital oedema::mefenamic acid
+20110921_2022254_NUH.txt::3::0::0::drug allergy::augmentin
+20110921_2022254_NUH.txt::5::0::0::drug allergy::nifedipine
+20110921_2022254_NUH.txt::6::2::19::diuresis::diuretic
+20110921_2124662_NUH.txt::2::0::0::allergic::penicillin
+20110921_2124662_NUH.txt::4::0::0::allergic::cephalosporin
+20110921_2124662_NUH.txt::6::1::18::thrombosis::levofloxacin
+20110921_2124662_NUH.txt::8::0::4::torsades de pointes::sotalol
+20110921_2124662_NUH.txt::4::0::7::prolong qtc::maxolon
+20110921_2307472_NUH.txt::3::0::0::drug allergy::naproxen
+20110921_2307472_NUH.txt::4::1::3::metastases::chemotherapy
+20110921_4634547_NUH.txt::2::0::0::allergy::atorvastatin
+20110922_21267_NUH.txt::4::1::17::weals::ivig
+20110922_21267_NUH.txt::4::0::9::weals::ivig
+20110922_21267_NUH.txt::4::0::9::weals::ivig
+20110922_21267_NUH.txt::6::1::25::allergy::intragam
+20110922_21267_NUH.txt::4::1::9::weals::ivig
+20110922_3482204_NUH.txt::9::1::20::sob::analgesia
+20110922_3482204_NUH.txt::9::1::13::resting tremor::lexapro
+20110922_4031992_NUH.txt::2::0::0::allergy::tetanus
+20110107_2702966_NUH.txt::1::0::0::DA::asp
+20110207_30101_NUH.txt::2::0::0::allergy::paracetemol
+20110207_30101_NUH.txt::2::0::4::rashes::paracetemol
+20110216_2398439_NUH.txt::3::0::0::drug allergy::serratiopeptidase
+20110216_2398439_NUH.txt::5::0::0::drug allergy::danzen
+20110217_3171149_NUH.txt::3::0::0::drug allergy::amoxicillin
+20110305_5686287_NUH.txt::6::0::25::thrombus::plavix
+20110306_2005827_NUH.txt::8::2::66::hypotension::avodart
+20110306_2005827_NUH.txt::8::0::9::hypotension::avodart
+20110306_2005827_NUH.txt::6::2::66::hypotension::propranolol
+20110306_2005827_NUH.txt::6::0::9::hypotension::propranolol
+20110919_3799677_NUH.txt::7::1::20::GE::topiramate
+20110919_3799677_NUH.txt::5::1::22::dehydration::topiramate
+20110919_3799677_NUH.txt::7::0::4::headache::analgesia
+20110919_3799677_NUH.txt::7::0::7::GE::topiramate
+20110919_3799677_NUH.txt::5::0::9::dehydration::topiramate
+20110919_4089975_NUH.txt::2::0::0::allergy::penicillin
+20110919_4089975_NUH.txt::4::0::0::allergy::metronidazole
+20110919_4089975_NUH.txt::3::1::7::metastatic::metronidazole
+20110919_4089975_NUH.txt::1::0::3::allergy::vancomycin
+20110919_4089975_NUH.txt::1::1::3::allergy::vancomycin
+20110919_4089975_NUH.txt::1::0::4::allergy::vancomycin
+20110919_4089975_NUH.txt::7::1::4::allergy::hydrocortisone
+20110920_5625995_NUH.txt::5::0::21::constipation::fleet enema
+20110921_5818337_NUH.txt::7::0::12::headaches::nimodipine
+20110921_5818337_NUH.txt::7::0::12::headaches::nimodipine
+20110922_2250597_NUH.txt::2::0::0::allergic::hydrochlorothiazide
+20110922_2250597_NUH.txt::3::1::11::vertigo::diphenhydramine
+20110922_2359622_NUH.txt::2::0::0::allergic::septrin
+20110922_2359622_NUH.txt::2::0::4::rashes::septrin
+20110922_2414330_NUH.txt::2::0::0::allergic::indomethacin
+20110922_2693517_NUH.txt::11::0::1::bp noted to be lowish::enalapril
+20110922_32860_NUH.txt::2::0::0::allergic::penicillin
+20110922_32860_NUH.txt::8::0::12::stroke::aspirin
+20110922_32860_NUH.txt::6::0::12::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::0::12::stroke::aspirin
+20110922_32860_NUH.txt::6::0::12::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::0::12::stroke::aspirin
+20110922_32860_NUH.txt::6::0::12::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::8::1::14::stroke::aspirin
+20110922_32860_NUH.txt::6::1::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::14::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::15::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::16::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::17::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::18::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::19::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::20::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::21::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
+20110922_32860_NUH.txt::6::0::22::stroke::anti-hypertensives
