@@ -1,5 +1,8 @@
-import matplotlib.pyplot as plt
 import numpy as np
+from mpl_toolkits.mplot3d import Axes3D
+from matplotlib import cm
+import matplotlib.pyplot as plt
+import random
 
 points=open('points.txt')
 matrix=np.zeros((4,28))
@@ -89,33 +92,19 @@ matrix[3][22]=4
 matrix[3][23]=2
 matrix[3][24]=4
 matrix[matrix>1]-=2
-print(np.sum(matrix))
 
-column_labels = list(range(0,5))
-row_labels = list(range(0,28))
-print(column_labels)
-print(row_labels)
-data = matrix
-fig, ax = plt.subplots()
-heatmap = ax.pcolor(data, cmap=plt.cm.Blues)
-plt.colorbar(heatmap,orientation='horizontal') 
-# put the major ticks at the middle of each cell
-ax.set_xticks(np.arange(data.shape[1])+0.5, minor=False)
-ax.set_yticks(np.arange(data.shape[0])+0.5, minor=False)
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+x  = np.arange(0, 28, 1)
+y  = np.arange(0, 4, 1)
+X, Y = np.meshgrid(x, y)
 
-ax.set_xticklabels(row_labels, minor=False)
-ax.set_yticklabels(column_labels, minor=False)
-plt.xlim((0,28))
-plt.ylim((0,4))
-plt.xlabel('word distance')
-plt.ylabel('sentence distance')
-plt.savefig('heatmap.png')
+
+
+ax.plot_surface(X, Y, matrix,rstride=1, cstride=1, cmap=cm.coolwarm)
+
+ax.set_xlabel('word distance')
+ax.set_ylabel('sentence distance')
+ax.set_zlabel('count')
+ax.set_yticks([0, 1, 2, 3])
 plt.show()
-plt.savefig('heatmap.png')
-
-f=open('matrix.txt','w')
-for i in matrix:
-	for j in i:
-		f.write(str(j)+'\t')
-	f.write('\n')
-f.close()
